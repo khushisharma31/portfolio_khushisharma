@@ -6,8 +6,6 @@
 - Class 10, Vivek High School | Mohali *(2018)*
  
 
----
-
 ### Projects
 #### Simulation of Spread of Epidemics
 - Developed and implemented an agent-based model working on a heterogenous population.
@@ -38,7 +36,7 @@
 ---
 ### Work Experience
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/nuacem.jpeg" alt="NuacemAI Logo" width="20">
+    <img src="assets/img/nuacem.jpeg" alt="NuacemAI Logo" width="50">
 </figure>
 
 #### NLP/ML Intern @ NuacemAI
@@ -49,7 +47,7 @@
 - Conducted in-depth analysis on cutting-edge Large Language Models (LLMs), presenting influential findings.
 
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/omdena.png" alt="Omdena Logo" width="20">
+    <img src="assets/img/omdena.png" alt="Omdena Logo" width="50">
 </figure>
 
 #### Junior ML Engineer @ Omdena Community
@@ -59,7 +57,7 @@
 
 
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/cn.jpeg" alt="CN Logo" width="20">
+    <img src="assets/img/cn.jpeg" alt="CN Logo" width="50">
 </figure>
 
 
@@ -70,7 +68,7 @@
 - Analyzed data to optimize content strategies, enhance engagement, and managed centralized project database using ClickUp.
 
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/cn.jpeg" alt="CN Logo" width="20">
+    <img src="assets/img/cn.jpeg" alt="CN Logo" width="50">
 </figure>
 
 #### Technical Content Writer @ Coding Ninjas 
@@ -79,7 +77,7 @@
 - [Link to blogs written](https://linktr.ee/khushisharma31)
 
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/spicemoney.jpeg" alt="Spice Money Logo" width="20">
+    <img src="assets/img/spicemoney.jpeg" alt="Spice Money Logo" width="50">
 </figure>
 
 #### Java Developer Intern @ Spice Money 
@@ -88,7 +86,7 @@
 - Proficient in SpringBoot, Spring, and Java Web Development.
 
 <figure style="float: left; margin-right: 10px;">
-    <img src="assets/img/nu.png" alt="NIIT Logo" width="20">
+    <img src="assets/img/nu.png" alt="NIIT Logo" width="50">
 </figure>
 
 #### Teaching Assistant @ NIIT University
