@@ -100,6 +100,14 @@ applications.
 
 ---
 
+
+## Technical Skills
+Languages|Python, Java, JavaScript, HTML/CSS, SQL, PL/SQL
+Frameworks/Tools|Flask, Spring, SpringBoot, Git, Docker
+Libraries|NumPy, Pandas, OpenCV, NLTK, SpaCy, Torch, Scikit, TensorFlow
+
+---
+
 ## Certifications
 - Machine Learning by AndrewNg - Coursera (Ongoing) 
 - SpringBoot - Udemy (June 2022) — [Link to certificate](https://www.udemy.com/certificate/UC-8dba34a7-bf52-42c6-a910-7f771463d2e4/)
