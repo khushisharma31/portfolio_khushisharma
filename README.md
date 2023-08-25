@@ -1,9 +1,9 @@
 # Data Scientist
 
-###Education
+### Education
 B.Tech, CSE
 
-###Work Experience
+### Work Experience
 NLP/ML Intern @ NuacemAI
   - NER
   - ETC
@@ -14,7 +14,7 @@ Associate Program Manager
   - etc
   - hi fjn dhi wh
 
-###Projects
+### Projects
 Fake news detection
   - hello
   - hi
