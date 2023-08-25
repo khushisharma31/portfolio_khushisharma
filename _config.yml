@@ -1,5 +1,7 @@
 title: Khushi Sharma
-logo: assets/img/khushi_photo-modified.jpg
+logo:
+  path: assets/img/khushi_photo-modified.jpg
+  width: 100px 
 description: Aspiring AI Engineer 
 #show_downloads: true
 theme: jekyll-theme-minimal
