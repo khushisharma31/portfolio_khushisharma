@@ -13,14 +13,14 @@
 - [Link to repository](https://github.com/parthdacoder/Simulation_Of_Epidemic_Using_Agent-Based-Model/tree/main)
 - Below are some graphs that visualise the predictions made by our model:
 
-![Comparison w.r.t. Population Density](image_url)
+![Comparison w.r.t. Population Density](assets/img/epidemic.png)
 *Comparison w.r.t. Population Density*
 
 #### Fake News Detection
 - Applied TF-IDF vectorization in addition to other NLP techniques such as stemming, lemmatization, tokenization.
 - [Link to repository](https://github.com/khushisharma31/FakeNewsDetection)
 
-![](image_url)
+![](assets/img/fakenews.png)
 *Simple UI*
 
 
@@ -29,7 +29,7 @@
 - Employed feature selection methods including heatmap analysis and SelectKBest.
 - [Link to repository](https://github.com/parthdacoder/Simulation_Of_Epidemic_Using_Agent-Based-Model/tree/main)
 
-![](image_url)
+![](assets/img/flightfare.png)
 *Source VS Price*
   
 
