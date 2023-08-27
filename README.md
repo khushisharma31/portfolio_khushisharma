@@ -102,9 +102,9 @@ applications.
 
 
 ## Technical Skills
-Languages|Python, Java, JavaScript, HTML/CSS, SQL, PL/SQL
-Frameworks/Tools|Flask, Spring, SpringBoot, Git, Docker
-Libraries|NumPy, Pandas, OpenCV, NLTK, SpaCy, Torch, Scikit, TensorFlow
+- Languages|Python, Java, JavaScript, HTML/CSS, SQL, PL/SQL|
+- Frameworks/Tools|Flask, Spring, SpringBoot, Git, Docker|
+- Libraries|NumPy, Pandas, OpenCV, NLTK, SpaCy, Torch, Scikit, TensorFlow|
 
 ---
 
