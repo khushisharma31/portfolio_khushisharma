@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# AI | ML | NLP | Data Science
 
 ## Education
 - Bachelor of Technology, Computer Science|NIIT University|*Expected 2024*
@@ -7,6 +7,12 @@
  
 
 ## Projects
+### Chat with Multiple PDFs
+- Practical application of Generative AI that allows users to upload multiple PDF files and query them enabling text generation and Question Answering NLP task.
+- Integrated Google Flan LLM and Hugging Face Instruct Embeddings.
+- Leveraged a sophisticated vector store, FAISS, to efficiently store and retrieve document embeddings.
+- [Link to repository](https://github.com/khushisharma31/ChatWithMultiplePDFs/tree/main)
+
 ### Simulation of Spread of Epidemics
 - Developed and implemented an agent-based model working on a heterogenous population.
 - Overcame the loopholes from the existing solutions.
