@@ -41,6 +41,20 @@
 
 ---
 ## Work Experience
+
+<figure style="float: left; margin-right: 10px;">
+    <img src="assets/img/thou.png" alt="Thoucentric Logo" width="55">
+</figure>
+
+### GenerativeAI and Data Science Intern @ Thoucentric
+*Jan 2024 - Present*
+
+- Automated the selection process for the top models based on concluded metrics from 51 (ML and Classical Time-Series) models per commodity, enhancing our in-house commodity price forecasting product.
+- Innovated a full stack proof-of-concept multi-agent system utilizing GenAI for a multinational FMCG firm. Enabled natural language queries to SQL conversion, and information retrieval from databases and PDFs using CrewAI, Langchain, Llama Index, and GPT-3.5 Turbo.
+- Engineered an IT support bot for resolving L1 queries using Langchain and a commercial LLM, improving support efficiency for a leading FMCG company.
+- Developed a generative AI-driven corporate bot for MS Teams to handle employee queries with an admin dashboard. Managed full stack development using Langchain, Teams Toolkit (JavaScript), Bot Framework SDK, Fast API, Python, and GPT-3.5 Turbo, ensuring optimized employee experience and engaging user interactions.
+- Tackled real-life problem statements, utilizing Generative AI to devise innovative solutions for business challenges.
+
 <figure style="float: left; margin-right: 10px;">
     <img src="assets/img/nuacem.jpeg" alt="NuacemAI Logo" width="55">
 </figure>
