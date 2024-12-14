@@ -1,17 +1,12 @@
 # AI | ML | NLP | Data Science
 
 ## Education
-- Bachelor of Technology, Computer Science|NIIT University|*Expected 2024*
+- Bachelor of Technology, Computer Science|NIIT University|*2024*
 - Class 12 (PCM)|Stepping Stones Senior Secondary School, Chandigarh|*2020*
 - Class 10|Vivek High School, Mohali|*2018*
  
 
 ## Projects
-### Chat with Multiple PDFs
-- Practical application of Generative AI that allows users to upload multiple PDF files and query them enabling text generation and Question Answering NLP task.
-- Integrated Google Flan LLM and Hugging Face Instruct Embeddings.
-- Leveraged a sophisticated vector store, FAISS, to efficiently store and retrieve document embeddings.
-- [Link to repository](https://github.com/khushisharma31/ChatWithMultiplePDFs/tree/main)
 
 ### Simulation of Spread of Epidemics
 - Developed and implemented an agent-based model working on a heterogenous population.
@@ -46,7 +41,7 @@
     <img src="assets/img/thou.png" alt="Thoucentric Logo" width="55">
 </figure>
 
-### GenerativeAI and Data Science Intern @ Thoucentric
+### GenerativeAI and Data Science @ Thoucentric
 *Jan 2024 - Present*
 
 - Automated the selection process for the top models based on concluded metrics from 51 (ML and Classical Time-Series) models per commodity, enhancing our in-house commodity price forecasting product.
